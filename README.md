@@ -1,0 +1,2 @@
+# FastZero
+Aprendendo FastApi
